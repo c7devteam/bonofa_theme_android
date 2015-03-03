@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- inherit from the material theme -->
+    <style name="Theme.Bonofa.Red" parent="Theme.Angel.Red"></style>
+
+    <style name="Theme.Bonofa.Blue" parent="Theme.Angel.Blue"></style>
+
+    <style name="Theme.Bonofa.Green" parent="Theme.Angel.Green"></style>
+</resources>
