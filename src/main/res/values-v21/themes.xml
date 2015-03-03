@@ -6,4 +6,6 @@
     <style name="Theme.Bonofa.Blue" parent="Theme.Angel.Blue"></style>
 
     <style name="Theme.Bonofa.Green" parent="Theme.Angel.Green"></style>
+
+    <style name="Theme.Bonofa.Purple" parent="Theme.Angel.Purple"></style>
 </resources>
